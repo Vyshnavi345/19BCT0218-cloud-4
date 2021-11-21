@@ -1,13 +1,5 @@
 package org.cloudbus.cloudsim.examples;
 
-/*
- * Title:        CloudSim Toolkit
- * Description:  CloudSim (Cloud Simulation) Toolkit for Modeling and Simulation
- *               of Clouds
- * Licence:      GPL - http://www.gnu.org/copyleft/gpl.html
- *
- * Copyright (c) 2009, The University of Melbourne, Australia
- */
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
